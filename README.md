@@ -1,7 +1,7 @@
 ---
 title: 技术笔记
 tags: [index, wiki]
-updated: "2026-06-19"
+updated: "2026-11-10"
 ---
 
 # 技术笔记
@@ -30,6 +30,17 @@ updated: "2026-06-19"
 | Containers_and_Orchestration | [[05-devops/01-containers/Containers_and_Orchestration]] | Overview of container technologies and orchestration tools including Docker, K3s, Kubernetes, Kafka, and HTTP/Stream data flows. |
 | Storage_and_Fault_Tolerance | [[09-storage/Storage_and_Fault_Tolerance]] | Discussion of storage systems, KV databases, disk failure handling, RAID5/RAID6, and REDs fault‑tolerance solutions. |
 | ML_Models | [[07-ml/01-models/ML_Models]] | Summary of common machine‑learning models such as MLP, XGBoost, INP file format, and Signal of Interest (SOI). |
+| Agent_Paradigm_Pipeline_vs_ModelNative | [[12-ai-agent/01-agent/Agent_Paradigm_Pipeline_vs_ModelNative]] | Compares pipeline-based agent orchestration with the model-native paradigm where planning and tool use are internalized through reinforcement learning. |
+| ReAct_and_Plan_Execute | [[12-ai-agent/01-agent/ReAct_and_Plan_Execute]] | Contrasts interleaved reasoning–acting (ReAct) with upfront planning followed by execution, including selection criteria. |
+| Function_Call_vs_Skill | [[12-ai-agent/01-agent/Function_Call_vs_Skill]] | Separates the function-calling protocol layer from the skill knowledge layer, and explains why they are frequently confused. |
+| Loop_Engineering | [[12-ai-agent/01-agent/Loop_Engineering]] | Engineering the outer control loop of an agent: triggers, verification, state, budgets and stop conditions. |
+| RAG_Pipeline_Basics | [[12-ai-agent/02-rag/RAG_Pipeline_Basics]] | The five-stage RAG pipeline, per-stage pitfalls, evaluation metrics and when RAG is the wrong tool. |
+| TinyRAG_Minimal_Implementation | [[12-ai-agent/02-rag/TinyRAG_Minimal_Implementation]] | A minimal teaching implementation of RAG and the four practical insights it reveals. |
+| LightRAG_Graph_Retrieval | [[12-ai-agent/02-rag/LightRAG_Graph_Retrieval]] | Lightweight graph-augmented retrieval with dual-level search, incremental indexing and comparison to GraphRAG. |
+| GraphRAG_and_Neo4j | [[12-ai-agent/02-rag/GraphRAG_and_Neo4j]] | Why graphs enter retrieval, Neo4j's dual role as graph and vector store, and the real cost of graph indexing. |
+| Ontology_Design | [[12-ai-agent/02-rag/Ontology_Design]] | Designing the knowledge-graph schema: entity and relation granularity, methods, common failures and acceptance criteria. |
+| WeKnora_Knowledge_Platform | [[12-ai-agent/02-rag/WeKnora_Knowledge_Platform]] | Tencent's open-source knowledge platform with three modes (RAG, ReAct agent, self-maintaining wiki) and its trade-offs. |
+| Firecrawl_Web_Collector | [[12-ai-agent/03-tools/Firecrawl_Web_Collector]] | LLM-friendly web collection, self-hosting cost, alternatives and when it is worth introducing. |
 
 ## Dataview 表格示例
 

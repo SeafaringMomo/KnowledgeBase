@@ -1,7 +1,7 @@
 ---
 title: Obsidian Wiki 总索引
 tags: [index, wiki]
-updated: "2026-06-19"
+updated: "2026-11-10"
 ---
 
 # Obsidian Wiki Index
@@ -56,6 +56,12 @@ updated: "2026-06-19"
 - [Models](07-ml/01-models/00-Index.md)
 - [Algorithms](07-ml/02-algorithms/00-Index.md)
 
+### AI / Agent
+- [AI Agent 与 RAG](12-ai-agent/00-Index.md)
+- [Agent 智能体](12-ai-agent/01-agent/00-Index.md)
+- [RAG 检索增强](12-ai-agent/02-rag/00-Index.md)
+- [Tools](12-ai-agent/03-tools/00-Index.md)
+
 ### Security
 - [SQL Injection & JWT](08-security/01-sql-injection/00-Index.md)
 - [Security & Compliance](08-security/02-compliance/00-Index.md)
@@ -78,4 +84,4 @@ updated: "2026-06-19"
 
 ---
 
-*Last updated: 2026-06-19*
+*Last updated: 2026-11-10*
