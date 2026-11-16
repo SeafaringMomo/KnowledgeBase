@@ -55,6 +55,8 @@ updated: "2026-11-10"
 ### ML
 - [Models](07-ml/01-models/00-Index.md)
 - [Algorithms](07-ml/02-algorithms/00-Index.md)
+- [Deep Learning](07-ml/03-deep-learning/00-Index.md)
+- [LLM](07-ml/04-llm/00-Index.md)
 
 ### AI / Agent
 - [AI Agent 与 RAG](12-ai-agent/00-Index.md)

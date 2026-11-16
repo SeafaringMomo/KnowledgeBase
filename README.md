@@ -41,6 +41,11 @@ updated: "2026-11-10"
 | Ontology_Design | [[12-ai-agent/02-rag/Ontology_Design]] | Designing the knowledge-graph schema: entity and relation granularity, methods, common failures and acceptance criteria. |
 | WeKnora_Knowledge_Platform | [[12-ai-agent/02-rag/WeKnora_Knowledge_Platform]] | Tencent's open-source knowledge platform with three modes (RAG, ReAct agent, self-maintaining wiki) and its trade-offs. |
 | Firecrawl_Web_Collector | [[12-ai-agent/03-tools/Firecrawl_Web_Collector]] | LLM-friendly web collection, self-hosting cost, alternatives and when it is worth introducing. |
+| Autoencoder | [[07-ml/03-deep-learning/Autoencoder]] | Unsupervised representation learning through bottleneck reconstruction: variants (DAE, VAE, VQ-VAE), limits, and industrial anomaly detection. |
+| Encoder_Decoder_Architecture | [[07-ml/03-deep-learning/Encoder_Decoder_Architecture]] | The split between understanding (encoder) and generation (decoder), three model shapes, and how attention broke the fixed-vector bottleneck. |
+| Attention_Mechanism | [[07-ml/03-deep-learning/Attention_Mechanism]] | Query-key-value retrieval, scaled dot-product attention, multi-head design, positional encoding and the O(n²) cost wall. |
+| Transformer_Architecture | [[07-ml/03-deep-learning/Transformer_Architecture]] | The 2017 architecture end to end: components, why it replaced RNNs, its three derivative forms and modern improvements. |
+| LLM_Fundamentals | [[07-ml/04-llm/LLM_Fundamentals]] | Pretraining/SFT/alignment pipeline, scaling laws including Chinchilla, MoE and long-context trends, and the hard limits of LLMs. |
 
 ## Dataview 表格示例
 
