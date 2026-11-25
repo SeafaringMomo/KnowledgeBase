@@ -1,7 +1,7 @@
 ---
 title: 深度学习基础章节索引
 tags: [index, 深度学习, 神经网络]
-updated: "2026-11-10"
+updated: "2026-11-24"
 ---
 
 # 03-深度学习基础
@@ -14,5 +14,6 @@ updated: "2026-11-10"
 - [编码器—解码器架构](Encoder_Decoder_Architecture.md)
 - [注意力机制](Attention_Mechanism.md)
 - [Transformer 架构](Transformer_Architecture.md)
+- [优化器](Optimizers.md)
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-24*

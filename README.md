@@ -1,7 +1,7 @@
 ---
 title: 技术笔记
 tags: [index, wiki]
-updated: "2026-11-10"
+updated: "2026-11-24"
 ---
 
 # 技术笔记
@@ -46,6 +46,30 @@ updated: "2026-11-10"
 | Attention_Mechanism | [[07-ml/03-deep-learning/Attention_Mechanism]] | Query-key-value retrieval, scaled dot-product attention, multi-head design, positional encoding and the O(n²) cost wall. |
 | Transformer_Architecture | [[07-ml/03-deep-learning/Transformer_Architecture]] | The 2017 architecture end to end: components, why it replaced RNNs, its three derivative forms and modern improvements. |
 | LLM_Fundamentals | [[07-ml/04-llm/LLM_Fundamentals]] | Pretraining/SFT/alignment pipeline, scaling laws including Chinchilla, MoE and long-context trends, and the hard limits of LLMs. |
+| AI_Overview | [[07-ml/Overview]] | AI evolution map, capability layers, and three learning routes organised by goal rather than difficulty. |
+| Math_for_ML | [[07-ml/05-foundations/Math_for_ML]] | The math that actually matters: linear algebra as data shape, probability as the origin of loss functions, bias-variance diagnosis. |
+| Glossary_and_Formulas | [[07-ml/05-foundations/Glossary_and_Formulas]] | Lookup tables for losses, metrics, attention formulas, abbreviations and commonly confused terms. |
+| Optimizers | [[07-ml/03-deep-learning/Optimizers]] | From batch GD to AdamW: momentum, adaptive learning rates, and practical selection rules. |
+| Classic_Models_Cheatsheet | [[07-ml/02-algorithms/Classic_Models_Cheatsheet]] | Model selection by task, data volume and deployment target. |
+| NLP_Overview | [[07-ml/06-nlp/NLP_Overview]] | Tokenization to pretraining, task-model matching, and Chinese-specific cost and evaluation constraints. |
+| Computer_Vision_Overview | [[07-ml/07-computer-vision/Computer_Vision_Overview]] | Backbone evolution, detection and segmentation schools, and industrial data/deployment realities. |
+| Speech_Processing_Overview | [[07-ml/08-speech/Speech_Processing_Overview]] | Waveform to Mel features, ASR/TTS generations, speaker verification, and the noise and latency walls. |
+| Multimodal_Learning | [[07-ml/09-multimodal/Multimodal_Learning]] | Three fusion levels, CLIP contrastive training, and how to verify a model actually looks at images. |
+| RL_Fundamentals | [[07-ml/10-reinforcement-learning/RL_Fundamentals]] | MDP, value-based vs policy-based methods, PPO, and the RLHF/RLVR link to LLMs. |
+| GNN_Overview | [[07-ml/11-graph-neural-network/GNN_Overview]] | Message passing, GCN/GAT/GraphSAGE/GIN, over-smoothing and heterophily. |
+| Recommender_Systems | [[07-ml/12-recommender-system/Recommender_Systems]] | The recall-ranking funnel, DIN's dynamic-interest insight, and three industrial must-solves. |
+| Data_Engineering | [[07-ml/13-data-engineering/Data_Engineering]] | Collection distribution, cleaning, labelling economics, versioning and augmentation limits. |
+| Feature_Engineering | [[07-ml/13-data-engineering/Feature_Engineering]] | Preprocessing, feature construction, selection methods, and the four shapes of feature leakage. |
+| MLOps_and_Deployment | [[07-ml/14-mlops/MLOps_and_Deployment]] | Serving patterns, inference engines, drift monitoring and silent-failure detection. |
+| Training_and_Inference_Optimization | [[07-ml/14-mlops/Training_and_Inference_Optimization]] | Parallelism and ZeRO, mixed precision, LoRA/QLoRA, KV cache and quantization trade-offs. |
+| Model_Evaluation_and_Experiments | [[07-ml/15-evaluation/Model_Evaluation_and_Experiments]] | Splitting rules, metric selection, ablation, significance testing, and the offline-online gap. |
+| AI_Safety_and_Interpretability | [[07-ml/16-safety/AI_Safety_and_Interpretability]] | Attack surface by stage, prompt injection, data poisoning, privacy and fairness. |
+| Project_Cases | [[07-ml/17-practice/Project_Cases]] | Eight project archetypes in problem-solution-pitfall-acceptance form, plus a launch checklist. |
+| Research_Roadmap | [[07-ml/17-practice/Research_Roadmap]] | Paradigm-shifting papers by era, the three-pass reading method, and a staged learning roadmap. |
+| HTAP_and_Workload_Models | [[02-back-end/02-database/HTAP_and_Workload_Models]] | OLTP/OLAP/HTAP workload comparison, two HTAP implementation routes, their costs, and why HTTP is unrelated. |
+| CDC_Incremental_Data_Capture | [[02-back-end/02-database/CDC_Incremental_Data_Capture]] | Log-based change capture versus polling, six failure modes, and where CDC belongs in the pipeline. |
+| Database_Access_Control | [[02-back-end/02-database/Database_Access_Control]] | Table/column/row permission granularity, four ways to implement row-level security, and the bypass holes. |
+| OceanBase_Overview | [[02-back-end/02-database/OceanBase_Overview]] | OceanBase architecture, community versus enterprise edition gaps, and when a distributed database is overkill. |
 
 ## Dataview 表格示例
 

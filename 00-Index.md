@@ -1,7 +1,7 @@
 ---
 title: Obsidian Wiki 总索引
 tags: [index, wiki]
-updated: "2026-11-10"
+updated: "2026-11-24"
 ---
 
 # Obsidian Wiki Index
@@ -53,10 +53,24 @@ updated: "2026-11-10"
 - [Service](06-hardware/02-service/00-Index.md)
 
 ### ML
+- [AI 全景与学习路线](07-ml/Overview.md)
 - [Models](07-ml/01-models/00-Index.md)
 - [Algorithms](07-ml/02-algorithms/00-Index.md)
 - [Deep Learning](07-ml/03-deep-learning/00-Index.md)
 - [LLM](07-ml/04-llm/00-Index.md)
+- [Foundations](07-ml/05-foundations/00-Index.md)
+- [NLP](07-ml/06-nlp/00-Index.md)
+- [Computer Vision](07-ml/07-computer-vision/00-Index.md)
+- [Speech](07-ml/08-speech/00-Index.md)
+- [Multimodal](07-ml/09-multimodal/00-Index.md)
+- [Reinforcement Learning](07-ml/10-reinforcement-learning/00-Index.md)
+- [Graph Neural Network](07-ml/11-graph-neural-network/00-Index.md)
+- [Recommender System](07-ml/12-recommender-system/00-Index.md)
+- [Data Engineering](07-ml/13-data-engineering/00-Index.md)
+- [MLOps](07-ml/14-mlops/00-Index.md)
+- [Evaluation](07-ml/15-evaluation/00-Index.md)
+- [AI Safety](07-ml/16-safety/00-Index.md)
+- [Practice](07-ml/17-practice/00-Index.md)
 
 ### AI / Agent
 - [AI Agent 与 RAG](12-ai-agent/00-Index.md)
@@ -86,4 +100,4 @@ updated: "2026-11-10"
 
 ---
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-24*
